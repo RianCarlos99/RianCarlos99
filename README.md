@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RianCarlos99/Repositorio-Particular.git](https://github.com/RianCarlos99/Repositorio-Particular.git)
+- 👨‍💻 All of my projects are available at [https://github.com/RianCarlos99?tab=repositories](https://github.com/RianCarlos99?tab=repositories)
 
 - 📫 How to reach me **riancarlos99@hotmail.com**
 
