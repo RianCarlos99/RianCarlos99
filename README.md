@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **FATEC São Caetano do Sul**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript**
+- 🌱 I’m currently learning **ASP.NET MVC, ReactJS and NEXTJS, C#, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RianCarlos99?tab=repositories](https://github.com/RianCarlos99?tab=repositories)
 
