@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rian Carlos</h1>
 <h3 align="center">systems analysis and development student</h3>
 
-- 🔭 I’m currently studying at **FATEC São Caetano do Sul**
+- 🔭 I graduated from **FATEC São Caetano do Sul**
 
-- 🌱 I’m currently learning **ASP.NET MVC, ReactJS and NEXTJS, C#, NodeJs**
+- 🌱 I’m currently learning **ReactJS and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RianCarlos99?tab=repositories](https://github.com/RianCarlos99?tab=repositories)
 
